@@ -21,6 +21,17 @@
       "tags": "Cá nhân,Mua sắm",
       "color": "#FFFF00",
       "isCompleted": 0
-    }
+    },
+    {
+  "id": 3,
+  "title": "Luyện tập thể dục",
+  "content": "Tập gym ít nhất 3 buổi trong tuần",
+  "priority": 1,
+  "createdAt": "2025-04-24T09:00:00Z",
+  "modifiedAt": "2025-04-24T09:00:00Z",
+  "tags": "Sức khỏe,Thể dục",
+  "color": "#00FF00",
+  "isCompleted": 0
+  }
   ]
 }
